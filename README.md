@@ -39,7 +39,7 @@ Other scripts: `npm run build`, `npm start`.
 
 ## Postman
 
-[Social-App API collection](https://go.postman.co/workspace/933b48dc-b541-4f68-8f13-5d50a8d86234)
+[Social-App API collection](https://go.postman.co/workspace/4ae48e01-46cd-4a98-8023-3fc41d6f346e)
 
 The workspace contains the **Social-App API** collection and the **Social-App Local** environment (`baseUrl = http://localhost:3000`).
 
